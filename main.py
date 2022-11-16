@@ -54,3 +54,4 @@ for url in fest_url_list:
         print(ex)
         print("Damn there was some error ... ")
 
+# переделать под поиск в индексе div class="pad-15 p-9pt tc-white" в нем хранится вся информация. Распарсить див с р и спанами и записать их в файл. 
